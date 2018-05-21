@@ -1,3 +1,3 @@
 # Project Euler
 
-Repository to host attempts at Project Euler problems.
+Repository to host attempts and solutions for Project Euler problems.
